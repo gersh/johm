@@ -324,4 +324,6 @@ public class SearchTest extends JOhmTestBase {
         assertEquals("b",gotUsers.get(0).getName());
         
     }
+    
+    
 }
